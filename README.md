@@ -44,6 +44,8 @@ A Minecraft modpack for an enhanced vanilla experience.
 
 ### Installing the Resource Pack
 
+**On second thought, the default resource pack looks better. But continue if you want to try this anyway.**
+
 1. Similar to the shaderpacks, there is a `Resourcepacks` folder in the repository you downloaded. Copy that `Simplista.zip` file and paste it in the `resourcepacks` folder in your `.minecraft` installation.
 
 ### First Time Launch and Configuration
@@ -78,7 +80,7 @@ That it, you're now done and can play. There are some more settings to configure
 2. Ensure Complementary Unbound is selected then go to `Shader Pack Settings`.
 3. Go to `Materials` then `IntegratedPBR+ Materials` and change `Generated Normals` to **ON** and `Coated Textures` to **ON**.
 4. Next, fo back to the main shader pack options menu and go to the `Atmosphere` options.
-5. Go to `Clouds` and change `Cloud Shadows` to **ON**. Change `Cloud Altitude` to something higher than **300** (unless you want clouds clipping through the tops of mountains, which can be nice - experiement with this) and finally go to the `Unbound Cloud Settings` options and increase the `Cloud Amount`, `Cloud Smallness` and `Rain Cloud Addition` by a small amount. Mine are on `1.2`, `1.1` and `+1.00` respectively.
+5. Go to `Clouds` and change `Cloud Shadows` to **ON**. Change `Cloud Altitude` to something higher than **300** (unless you want clouds clipping through the tops of mountains, which can be nice - experiment with this) and finally go to the `Unbound Cloud Settings` options and increase the `Cloud Amount`, `Cloud Smallness` and `Rain Cloud Addition` by a small amount. Mine are on `1.2`, `1.1` and `+1.00` respectively.
 
 *These are personal preference and worth experimenting with. If you change too much and don't like it, you can reset the shader pack to its defaults.*
 
