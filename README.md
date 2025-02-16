@@ -58,6 +58,14 @@ A Minecraft modpack for an enhanced vanilla experience.
 
 4. Click once on the shader pack you want to use, then click **Apply**. Wait for the changes to take effect.
 
+**You will also need to change some default video settings.**
+
+1. Go to `Options` then `Video Settings`.
+2. `Render Distance` should be no more than **14**. (Reduce for better performance).
+3. `Simultion Distance` should be no more than **12**
+4. `Brightness` should be maximum (bright).
+5. Under the `Quality` settings, make sure `Graphics`, `Clouds`, `Weather` and `Leaves` are all set to **Fancy**.
+
 That it, you're now done and can play. There are some more settings to configure in the shaderpack options if you want to, but these are personal preference and now required - though they do (in my opinion) enhance the experience.
 
 **YOU CAN NOW ASK SEZGUIN FOR THE SERVER INFORMATION TO JOIN.**
@@ -73,6 +81,14 @@ That it, you're now done and can play. There are some more settings to configure
 5. Go to `Clouds` and change `Cloud Shadows` to **ON**. Change `Cloud Altitude` to something higher than **300** (unless you want clouds clipping through the tops of mountains, which can be nice - experiement with this) and finally go to the `Unbound Cloud Settings` options and increase the `Cloud Amount`, `Cloud Smallness` and `Rain Cloud Addition` by a small amount. Mine are on `1.2`, `1.1` and `+1.00` respectively.
 
 *These are personal preference and worth experimenting with. If you change too much and don't like it, you can reset the shader pack to its defaults.*
+
+### Optional Distant Horizons Configuration
+
+1. Go to `Options` from your in-game Minecraft menu.
+2. You should see an icon next to the FOV slider that looks like some squares within squares.
+3. Ensure `Enable Rendering` and `Enable Cloud Rendering` are set to **True**.
+4. `LOD Chunk Render Distance Radius` should be between 128 - 512 (this is how far you can see, feel free to experiment) - mine is on 512 for maximum view distance.
+5. `Quality Preset` should be **High** or **Extreme** - but play around for best performance.
 
 ### Optional Distant Horizons Data Transfer
 
