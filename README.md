@@ -5,7 +5,7 @@ A Minecraft modpack for an enhanced vanilla experience.
 
 1. You are running Windows.
 2. Your Minecraft Launcher is installed and updated to the latest version.
-3. You have the latest version of Java installed. Go to this (link if)[https://www.java.com/download/ie_manual.jsp] you do not.
+3. You have the latest version of Java installed. Go to [this link] if(https://www.java.com/download/ie_manual.jsp) you do not.
 4. You can read.
 
 ## Installation Guide
@@ -14,7 +14,7 @@ A Minecraft modpack for an enhanced vanilla experience.
 
 *Before starting these steps, make sure your Minecraft Launcher is closed and Minecraft is not running.*
 
-1. Go to the Iris Shaders website and download the Universal Jar from (this link)[https://www.irisshaders.dev/download].
+1. Go to the Iris Shaders website and download the Universal Jar from [this link](https://www.irisshaders.dev/download).
 2. This should download a `.jar` file. Double click this to launch the installer (if you can't do this, double check you've installed Java correctly as per step 2 of the pre-requisites).
 3. The installer should now launch. Select version **1.21.1** and make sure you've selected to install **both Iris and Fabric**.
 4. Once the installation has completed, exit the Iris installer.
