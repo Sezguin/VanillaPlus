@@ -5,7 +5,7 @@ A Minecraft modpack for an enhanced vanilla experience.
 
 1. You are running Windows.
 2. Your Minecraft Launcher is installed and updated to the latest version.
-3. You have the latest version of Java installed. Go to [this link] if(https://www.java.com/download/ie_manual.jsp) you do not.
+3. You have the latest version of Java installed. Go to [this link](https://www.java.com/download/ie_manual.jsp) if you do not.
 4. You can read.
 
 ## Installation Guide
